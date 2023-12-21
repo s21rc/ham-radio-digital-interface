@@ -1,5 +1,5 @@
 # ham-radio-digital-interface
-(./PCBA-1024.jpg)
+![](./PCBA-1024.jpg)
 [block-diagram-digi.PNG]
 [PCB_Top.PNG]
 [PCB_bottom.PNG]
